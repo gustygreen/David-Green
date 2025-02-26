@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gustygreen/azure-network-protocols)
 
 - <b>Virtual Private Networks</b>
- - [VPN Setup on a Virtual Machine](https://github.com/gustygreen/VPN-Setup.git)
+   - [VPN Setup on a Virtual Machine](https://github.com/gustygreen/VPN-Setup.git)
 
 <h2>🤳Connect with me:</h2>
 
