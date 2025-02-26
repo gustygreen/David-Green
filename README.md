@@ -1,6 +1,6 @@
 <h1>Hi, I'm David, an aspiring <a href="www.linkedin.com/in/david-green-6597b029a">IT Professional</a>🖥️
 
-<h2>👨‍💻 Information Technology Network/Cloud Projects ☁️:</h2>
+<h2>👨‍💻 Information Technology Networking/Cloud Projects ☁️:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gustygreen/configure-ad)
