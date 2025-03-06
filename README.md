@@ -1,10 +1,11 @@
-<h1>Hi, I'm David, an aspiring <a href="www.linkedin.com/in/david-green-6597b029a">IT Professional</a>🖥️
+<h1>Hi, I'm David, an <a href="www.linkedin.com/in/david-green-6597b029a">IT Professional</a>🖥️
 
 <h2>👨‍💻 Information Technology Networking/Cloud Projects ☁️:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gustygreen/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gustygreen/azure-network-protocols)
+  - [Creating Virtual Machines within Azure](https://github.com/gustygreen/configure-ad)
+  - [Observe ICMP Traffice and other Network Protocols using WireShark](https://github.com/gustygreen/ICMP)
+  - [Network Security Groups (NSGs)](https://github.com/gustygreen/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gustygreen/osticket-prereqs)
@@ -16,6 +17,7 @@
 
 - <b>Active Directory</b>
    - [VPN Active Directory](https://github.com/gustygreen/Active-Directory.git)
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gustygreen/configure-ad)
 
 - <b>DNS</b>
    - [DNS](https://github.com/gustygreen/DNS.git)
