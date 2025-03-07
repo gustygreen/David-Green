@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Networking/Cloud Projects ☁️:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines within Azure](https://github.com/gustygreen/configure-ad)
+  - [Creating Virtual Machines within Azure](https://github.com/gustygreen/Azure)
   - [Observe ICMP Traffice using WireShark](https://github.com/gustygreen/ICMP)
   - [Network Security Groups(NSGs) and their functionality with Network Protocols](https://github.com/gustygreen/azure-network-protocols)
 
