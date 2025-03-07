@@ -16,8 +16,9 @@
    - [VPN Setup on a Virtual Machine](https://github.com/gustygreen/VPN-Setup.git)
 
 - <b>Active Directory</b>
-   - [VPN Active Directory](https://github.com/gustygreen/Active-Directory.git)
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gustygreen/configure-ad)
+   - [Creating Active Directory](https://github.com/gustygreen/Active-Directory.git)
+   - [Configuring On-premises Active Directory for users](https://github.com/gustygreen/configure-ad)
+   - [Managing Accounts and Group Policies](https://github.com/gustygreen/Group-Policy)
 
 - <b>DNS</b>
    - [DNS](https://github.com/gustygreen/DNS.git)
