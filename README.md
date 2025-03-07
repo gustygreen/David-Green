@@ -4,8 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines within Azure](https://github.com/gustygreen/configure-ad)
-  - [Observe ICMP Traffice and other Network Protocols using WireShark](https://github.com/gustygreen/ICMP)
-  - [Network Security Groups (NSGs)](https://github.com/gustygreen/azure-network-protocols)
+  - [Observe ICMP Traffice using WireShark](https://github.com/gustygreen/ICMP)
+  - [Network Security Groups(NSGs) and their functionality with Network Protocols](https://github.com/gustygreen/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gustygreen/osticket-prereqs)
